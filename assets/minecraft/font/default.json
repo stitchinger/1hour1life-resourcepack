@@ -1,0 +1,77 @@
+{
+    "providers": [{
+            "type": "space",
+            "advances": {
+                "\uF001": -4,
+                "\uF002": -8,
+                "\uF003": -16,
+                "\uF004": -32,
+                "\uF005": -64,
+                "\uF006": -128
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/blue_s.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/heart_icon.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/calendar_icon.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/red_s.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_ui/boss_bar/background_center_128.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_ui/boss_bar/background_center_64.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/tab_s.png",
+            "ascent": 20,
+            "height": 60,
+            "chars": [
+                "\uE008"
+            ]
+        }
+    ]
+}
